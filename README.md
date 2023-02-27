@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI2NzdkYzM3MzI0ZDM4MGIwZmMzNGNkYmIwMGUwOTU2MGFkMTBhZSZjdD1n/l1J9sBOqBIvnafnUc/giphy.gif" align="right" width="400" height="250">
 
 ### Hi there, I'm Baran. :blush:
 
