@@ -41,13 +41,13 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Baranll0&show_icons=true&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=Baranll0&show_icons=true&theme=dark" >
 
 </details>
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranll0&theme=radical&langs_count=8" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranll0&theme=dark&langs_count=8" >
 </details>
 
 [twitter]: https://twitter.com/Baranll0
