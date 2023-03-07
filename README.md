@@ -38,6 +38,8 @@
 <!-- POST:END -->
 
 <br />
+<summary>:bulb:Count</summary>
+<img src="https://profile-counter.glitch.me/{Baranll0}/count.svg" alt="Baranll0 :: Visitor's Count" width='250'>
 
 <details>
 <summary>:bulb: Github Stats</summary>
