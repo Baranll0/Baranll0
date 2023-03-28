@@ -35,6 +35,8 @@
 - [Yazılımda Nasıl Başarılı Olurum?](https://www.instagram.com/p/Cip8ZVhvdrG/)
 - [Web Geliştirme Hakkında](https://www.instagram.com/p/CjBSEADrPzw/)
 - [Kombinim Projesi](https://www.linkedin.com/feed/update/urn:li:activity:7032479254000939008/)
+- [Programlama Dilleri:Derleyicinin temel aşamaları](https://medium.com/@baranll0/programlama-dilleri-c527d0e312c)
+- [Pivot Seçimine Göre Quick Sort Algoritmasının Karmaşıklık Analizi](https://medium.com/@baranll0/pivot-seçimine-göre-quick-sort-algoritmasının-karmaşıklık-analizi-24a98c86e996)
 <!-- POST:END -->
 
 <br />
