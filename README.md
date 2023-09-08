@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Baran. :blush:
 
-## Backend Developer | Data Scientist
+##  Data Scientist
 
 <font color="pink">Tea :tea: is how I keep up with `< code />` </font>
 
