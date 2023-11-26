@@ -37,6 +37,11 @@
 - [Kombinim Projesi](https://www.linkedin.com/feed/update/urn:li:activity:7032479254000939008/)
 - [Programlama Dilleri:Derleyicinin Temel Aşamaları](https://medium.com/@baranll0/programlama-dilleri-c527d0e312c)
 - [Pivot Seçimine Göre Quick Sort Algoritmasının Karmaşıklık Analizi](https://medium.com/@baranll0/pivot-seçimine-göre-quick-sort-algoritmasının-karmaşıklık-analizi-24a98c86e996)
+- [Programlama Dilleri #2: Syntax Analizi](https://medium.com/@baranll0/programlama-dilleri-2-syntax-analizi-e1613a5fecc7)
+- [Nesne Tabanlı Programlama Dillerinde Class Veri Tipi](https://medium.com/@baranll0/nesne-tabanlı-programlama-dillerinde-class-veri-tipi-dabe9735b658)
+- [Makine Öğrenmesi Tahmin Modelleri](https://medium.com/@baranll0/makine-öğrenmesi-tahmin-modelleri-6283b1aaad16)
+- [Matematiksel Temelleriyle Lineer Regresyon ve Maliyet Fonksiyonu Analizi](https://medium.com/@baranll0/matematiksel-temelleriyle-lineer-regresyon-ve-maliyet-fonksiyonu-analizi-7e1328240c48)
+- [Makine Öğrenme Problemleri ve Yaklaşımları](https://medium.com/@baranll0/makine-öğrenme-problemleri-ve-yaklaşımları-910e3d7b0604)
 <!-- POST:END -->
 
 <br />
