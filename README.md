@@ -4,12 +4,11 @@
 
 ##  Data Scientist
 
-<font color="pink">Tea :tea: is how I keep up with `< code />` </font>
 
 ### Reach out to me
-
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+<img  height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" align="left" />
+<img  height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" align="left" />
+<img  height="30" src="https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png" align="left" />
 
 <br />
 <br />
