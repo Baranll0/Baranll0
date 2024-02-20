@@ -41,6 +41,7 @@
 - [Makine Öğrenmesi Tahmin Modelleri](https://medium.com/@baranll0/makine-öğrenmesi-tahmin-modelleri-6283b1aaad16)
 - [Matematiksel Temelleriyle Lineer Regresyon ve Maliyet Fonksiyonu Analizi](https://medium.com/@baranll0/matematiksel-temelleriyle-lineer-regresyon-ve-maliyet-fonksiyonu-analizi-7e1328240c48)
 - [Makine Öğrenme Problemleri ve Yaklaşımları](https://medium.com/@baranll0/makine-öğrenme-problemleri-ve-yaklaşımları-910e3d7b0604)
+- [Design Patterns: Giriş](https://www.linkedin.com/posts/baran-g%C3%BC%C3%A7l%C3%BC-207b1a226_design-patterns-giri%C5%9F-activity-7165678034266513409-GhZu?utm_source=share&utm_medium=member_desktop)
 <!-- POST:END -->
 
 <br />
