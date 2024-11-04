@@ -56,7 +56,7 @@
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranll0&theme=radical&langs_count=8" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranll0&theme=great-gatsby&langs_count=8" >
 </details>
 
 [twitter]: https://twitter.com/Baranll0
