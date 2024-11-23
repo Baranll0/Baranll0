@@ -50,7 +50,7 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Baranll0&show_icons=true&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=Baranll0&show_icons=true&theme=great-gatsby" >
 
 </details>
 
