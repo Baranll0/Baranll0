@@ -69,6 +69,11 @@
 </div>
 
 
+<div align="center" style="margin-top: 40px;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Baranll0&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
+  </a>
+</div>
 
 [twitter]: https://twitter.com/Baranll0
 [linkedin]: https://www.linkedin.com/in/baran-güçlü-207b1a226/
