@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Baran. :blush:
 
-##  Data Scientist
+##  AI Engineer
 
 
 ### Reach out to me
