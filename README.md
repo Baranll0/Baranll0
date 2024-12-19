@@ -73,6 +73,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Baranll0&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Baranll0/Baranll0/d14cfdcb3e3904396a564343c7f281facdc47b54/github-user-contribution%20(1).svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 <div align="center" style="margin-top: 40px;">
   <a href="https://visitcount.itsvg.in">
