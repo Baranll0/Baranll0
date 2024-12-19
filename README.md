@@ -60,7 +60,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranll0&layout=compact&theme=cobalt" alt=Baranll0 />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baranll0&show_icons=true&locale=en&theme=cobalt" alt="Baranll0" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baranll0&theme=cobalt" alt="Baranll0" />
+  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Baranll0&count_private=true&theme=react&border_radius=10" alt="Baranll0" />
 </div>
 
 <h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
