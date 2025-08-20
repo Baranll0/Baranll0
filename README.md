@@ -1,20 +1,26 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI2NzdkYzM3MzI0ZDM4MGIwZmMzNGNkYmIwMGUwOTU2MGFkMTBhZSZjdD1n/l1J9sBOqBIvnafnUc/giphy.gif" align="right" width="400" height="250">
+<div align="right">
+  <!-- Sizin sevdiğiniz Süper Mario GIF'i -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI2NzdkYzM3MzI0ZDM4MGIwZmMzNGNkYmIwMGUwOTU2MGFkMTBhZSZjdD1n/l1J9sBOqBIvnafnUc/giphy.gif" width="400" height="250">
+</div>
 
-### Hi there, I'm Baran. :blush:
+### Hi there, I'm Baran :wave:
 
-##  AI Engineer
+I am an **AI Engineer** with a primary focus on **Large Language Models (LLMs)** and **Generative AI**. My passion lies in architecting and deploying intelligent systems that can understand and generate human-like text.
 
+- 🔭 I’m currently building scalable applications using **RAG pipelines** and **open-source LLMs**.
+- 🌱 I leverage my strong background in **Computer Vision** to explore and build robust multimodal AI systems.
+- 💬 Ask me about **LLMs, System Design, MLOps**, or anything related to Python!
 
-### Reach out to me
-<img  height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" align="left" />
-<img  height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" align="left" />
-<img  height="30" src="https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png" align="left" />
+### Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/baran-güçlü-207b1a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Baran Güçlü" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/barng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="barng" height="30" width="40" /></a>
+  <a href="https://medium.com/@baranll0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@baranll0" height="30" width="40" /></a>
+</p>
 
-<br />
-<br />
+---
 
-
-### 🚀 Tech I Use
+### 🚀 Tech Stack
 
 <table>
   <tr>
@@ -62,12 +68,7 @@
   </tr>
 </table>
 
-<br />
-
-<br />
-
-## Posts I shared
-
+### ✍️ Posts I shared
 <!-- POST:START -->
 - [Büyük Dil Modellerinin Tasarımı ve Optimizasyonu](https://www.linkedin.com/feed/update/urn:li:activity:7362755086046973953)
 - [GPT-5: Ne Değişti, Neden Önemli?](https://medium.com/@baranll0/gpt-5-ne-değişti-neden-önemli-4ad4fb5ad864)
@@ -85,37 +86,31 @@
 
 <br />
 
-<h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranll0&layout=compact&theme=cobalt" alt=Baranll0 />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baranll0&show_icons=true&locale=en&theme=cobalt" alt="Baranll0" />
-  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Baranll0&count_private=true&theme=react&border_radius=10" alt="Baranll0" />
-</div>
+<h3 align="center">📊 My GitHub Stats</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Baranll0&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Baranll0 Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Baranll0&show_icons=true&locale=en&theme=cobalt" alt="Baranll0 Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Baranll0&theme=react&border_radius=10" alt="Baranll0 Streak" />
+</p>
 
-<h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
-<div align="center">
+<h3 align="center">⚡ Activity Graph</h3>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baranll0&theme=cobalt"/>
-</div>
+</p>
 
-<h2 align="center" style="margin-top: 60px;">GitHub Trophies:</h2>
 <div align="center">
+  <h3>🏆 GitHub Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=Baranll0&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Baranll0/Baranll0/d14cfdcb3e3904396a564343c7f281facdc47b54/github-user-contribution%20(1).svg" />
-  
-  <br/><br/><br/>
+  <h3>🐍 My Contributions Snake</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Baranll0/Baranll0/output/github-contribution-grid-snake.svg" />
 </div>
 
-
-<div align="center" style="margin-top: 40px;">
-  <a href="https://komarev.com/ghpvc/?username=Baranll0">
-    <img src="https://komarev.com/ghpvc?username=Baranll0&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
-  </a>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc?username=Baranll0&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
 </div>
-
-[twitter]: https://twitter.com/Baranll0
-[linkedin]: https://www.linkedin.com/in/baran-güçlü-207b1a226/
